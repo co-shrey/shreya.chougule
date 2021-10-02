@@ -18,14 +18,15 @@ body{
 }
 .bottom{
   position:absolute;
-  left:200px;
+  left:250px;
+  bottom:300px;
   
 
 }
 .top{
   position: absolute;
   right: 200px;
-  top:100px;
+  top:40px;
 }
 .p{
   line-height: 2;
