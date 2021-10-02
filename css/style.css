@@ -18,13 +18,13 @@ body{
 }
 .bottom{
   position:absolute;
-  left:300px;
-  bottom:300px;
+  left:200px;
+  bottom:200px;
 
 }
 .top{
   position: absolute;
-  right: 300px;
+  right: 200px;
   top:100px;
 }
 .p{
